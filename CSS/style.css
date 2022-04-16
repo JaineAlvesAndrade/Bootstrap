@@ -1,0 +1,94 @@
+.navbar {
+    background-color: bisque;
+}
+
+.navbar-brand {
+    padding: 15px;
+}
+
+.textoquem {
+    background-color: burlywood;    
+    font-family: bodoni MT;
+    color: rgb(148, 119, 80);
+}
+
+.imagem1 {
+    border-radius: 50%;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.margin {
+    margin-top: 10px;
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+.textopar {
+    background-color: lavender;
+    font-family: bodoni MT;
+    color:rgb(67, 113, 128) ;
+}
+
+.col-md-6 {
+    padding-top: 50px;
+}
+
+.col-md-4 {
+    padding-top: 50px;
+}
+
+.imagem2 {
+    border-radius: 50%;
+}
+
+.imagem4 {
+    border-radius: 50%;
+}
+
+.textoser {
+    background-color: lightgrey;
+    font-family: bodoni MT;
+}
+
+.rodape {
+    background-color: bisque;
+    text-align: right;
+    font-family: cursive;
+    color: burlywood;
+}
+
+.subtitulo {
+    padding-top: 15px;
+    color: rgb(103, 103, 103);
+    font-family: bonoti mt;
+}
+
+.titulo {
+    color: rgb(103, 103, 103);
+}
+
+.Contatos {
+    font-family: bonoti mt;
+    color: rgb(90, 90, 160);
+}
+
+.listaDeContatos {
+    list-style-type: none;
+}
+
+.linkedin, .github {
+    color: rgb(90, 90, 160);
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.textocon {
+    background-color: rgb(164, 173, 209);
+    font-family: bonoti MT;
+}
+
+.parag {
+    color: rgb(131, 131, 131);
+    font-family: bonoti mt;
+}
